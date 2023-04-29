@@ -1,2 +1,2 @@
-# hack2basics-sheets
-Code cheatsheets mentioned in 101's blog posts.
+# hack2basics cheatsheets
+Command cheatsheets mentioned in 101's blog posts.
