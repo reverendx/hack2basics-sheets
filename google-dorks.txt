@@ -1,3 +1,6 @@
+URL - hacktobasics.tech/not-so-common-google-dorks-for-pentesters-and-its-use-cases
+
+Cheatsheet:
 `site:example.com`
 `filetype:pdf site:example.com`
 `inurl:admin site:example.com`
