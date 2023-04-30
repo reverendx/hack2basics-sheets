@@ -1,0 +1,9 @@
+`site:example.com`
+`filetype:pdf site:example.com`
+`inurl:admin site:example.com`
+`intitle:"index of" site:example.com`
+`intitle:"phpMyAdmin" "running on" inurl:"main.php"`
+`filetype:pdf site:example.com intext:"confidential"`
+`filetype:conf site:example.com intext:"password"`
+`intitle:"port scan" intext:"open ports" site:example.com`
+`inurl:"id=" site:example.com intext:"You have an error in your SQL syntax"`
