@@ -1,0 +1,8 @@
+URL - hacktobasics.tech/sssshhhhh!-how-to-scan-networks-with-nmap-without-getting-caught
+
+Cheatsheet:
+sudo nmap 8.8.8.8 -F -T5
+sudo nmap 8.8.8.8 -F -oN optimized.nmap --min-rate 500
+sudo nmap 8.8.8.8 -F --max-retries 0
+sudo nmap 8.8.8.8/29 -F --initial-rtt-timeout 50ms --max-rtt-timeout 100ms
+sudo nmap 8.8.8.8/29 -F --min-parallelism 10 --max-parallelism 100
